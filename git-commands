@@ -18,5 +18,7 @@ git stash clear
 git branch <branch_name>
 // to go to that branch
 git checkout <branch_name>
+// to know the branch
+git branch
 
 
