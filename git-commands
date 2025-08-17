@@ -1,0 +1,24 @@
+//  git command to remove any file from the staging area
+git restore --staged  <file name>
+// git command to remove all files from the staging area
+git restore --staged .
+// to get  the history of all the commits
+git log
+// so if we want to move to previous version of our code
+git reset <hashid> // we can get the hashid from git log to which we want to go
+
+// to save some changes in  the local without commit we use
+git stash
+// to bring them back use
+git stash pop
+// to remove them in local
+git stash clear
+
+// to make a new branch
+git branch <branch_name>
+// to go to that branch
+git checkout <branch_name>
+// to know the branch
+git branch
+
+
