@@ -21,3 +21,4 @@ git checkout <branch_name>
 // to know the branch
 git branch
 
+// some dummy changes in the git file 
