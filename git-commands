@@ -22,3 +22,5 @@ git checkout <branch_name>
 git branch
 
 // some dummy changes in the git file 
+
+// adding the dummy changes in the dummy file 
