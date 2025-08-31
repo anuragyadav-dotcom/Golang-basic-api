@@ -20,16 +20,5 @@ git branch <branch_name>
 git checkout <branch_name>
 // to know the branch
 git branch
-
 // some dummy changes in the git file 
 
-// adding the dummy changes in the dummy file by the main branch 
-
-// some extar changes in the main 
-
-// adding some new features 
-
-
-// changes for the one commit 
-// changes for the one commit qq
-// changes in the hello branch after the re-base 
