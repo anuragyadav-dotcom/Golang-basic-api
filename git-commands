@@ -21,3 +21,5 @@ git checkout <branch_name>
 // to know the branch
 git branch
 
+
+// doing some dummy chsnges for the pr merge 
